@@ -13,15 +13,15 @@
      		<div class="row">
      			<div class="col-md-3 col-sm-6 col-xs-12">
      				<div class="intern-block border-blue">
-     					<img src="https://res.cloudinary.com/dkg4moddv/image/upload/v1554310747/download.jpg" alt="">
-     					  <h6>Folarin Olatunji</h6>
-                 <p>I am a front-end developer, interning at HNG.<br>I ike to play games and listen to music when i am bored. I am good with Photoshop, Illustrator and After Effects</p>
+     					<img src="../app/img/about-talent.png" alt="">
+     					  <h6>Mark Essien</h6>
+                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
                  <ul class="list">
-                 <li><a href="https://twitter.com/iam_pHolarine" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="https://github.com/4larin/hng.tech" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="https://medium.com/@folarin.tunji98/timbu-com-d4dc2f79d4bd" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 <li><a href="#"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="../intern/Folarin" class="btn-view">view profile</a>
+     					    <a href="#" class="btn-view">view profile</a>
      				</div>
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
