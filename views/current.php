@@ -13,15 +13,15 @@
      		<div class="row">
      			<div class="col-md-3 col-sm-6 col-xs-12">
      				<div class="intern-block border-blue">
-     					<img src="../app/img/about-talent.png" alt="">
-     					  <h6>Mark Essien</h6>
-                 <p>Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+     					<img src="../app/img/about-talent2.png" alt="">
+     					  <h6>Folarin Olatunji</h6>
+                 <p>I am a front-end developer, interning at HNG.</p>
                  <ul class="list">
-                 <li><a href="#" target="_blank"<i class="fab fa-twitter"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-github"></i></a></li>
-                 <li><a href="#" target="_blank"<i class="fab fa-medium"></i></a></li>
+                 <li><a href="https://twitter.com/iam_pHolarine" target="_blank"<i class="fab fa-twitter"></i></a></li>
+                 <li><a href="https://github.com/4larin/hng.tech" target="_blank"<i class="fab fa-github"></i></a></li>
+                 <li><a href="https://medium.com/@folarin.tunji98/timbu-com-d4dc2f79d4bd" target="_blank"<i class="fab fa-medium"></i></a></li>
                  </ul>
-     					    <a href="#" class="btn-view">view profile</a>
+     					    <a href="../intern/Folarin" class="btn-view">view profile</a>
      				</div>
      			</div>
      			<div class="col-md-3 col-sm-6 col-xs-12">
